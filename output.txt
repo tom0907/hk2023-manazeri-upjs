@@ -1,0 +1,72 @@
+channel: 1
+System: 60581
+Microsoft-Windows-Kernel-PnPConfig/Configuration: 243
+Microsoft-Windows-Kernel-PnP/Configuration: 362
+Microsoft-Windows-Kernel-ShimEngine/Operational: 12
+Microsoft-Windows-Ntfs/WHC: 11
+Microsoft-Windows-Kernel-WHEA/Operational: 11
+Microsoft-Windows-Ntfs/Operational: 23
+Security: 8574
+Microsoft-Windows-TerminalServices-LocalSessionManager/Operational: 123
+Microsoft-Windows-Crypto-DPAPI/Operational: 7
+Microsoft-Windows-UserPnp/DeviceInstall: 5
+Microsoft-Windows-GroupPolicy/Operational: 4035
+Application: 824
+Microsoft-Windows-Wcmsvc/Operational: 123
+Microsoft-Windows-WinRM/Operational: 303
+Microsoft-Windows-SMBServer/Operational: 64
+Microsoft-Windows-DeviceSetupManager/Admin: 324
+Microsoft-Windows-Known Folders API Service: 14
+Microsoft-Windows-SmbClient/Connectivity: 64
+Microsoft-Windows-International/Operational: 2
+Microsoft-Windows-WMI-Activity/Operational: 791
+Microsoft-Windows-AppXDeploymentServer/Operational: 34
+Microsoft-Windows-NCSI/Operational: 59
+Microsoft-Windows-MUI/Operational: 11
+Microsoft-Windows-NetworkProfile/Operational: 36
+Microsoft-Windows-ApplicationResourceManagementSystem/Operational: 18
+Microsoft-Windows-Windows Firewall With Advanced Security/Firewall: 178
+Microsoft-Windows-AppReadiness/Admin: 24
+Microsoft-Windows-AppReadiness/Operational: 94
+Microsoft-Windows-DeviceSetupManager/Operational: 18
+Microsoft-Windows-Bits-Client/Operational: 5
+Microsoft-Windows-Diagnosis-DPS/Operational: 27
+Microsoft-Windows-Resource-Exhaustion-Detector/Operational: 17
+Microsoft-Windows-DataIntegrityScan/Admin: 2
+Microsoft-Windows-TaskScheduler/Maintenance: 15
+Microsoft-Windows-User Profile Service/Operational: 98
+Microsoft-Windows-PrintService/Admin: 1
+Microsoft-Windows-Shell-Core/Operational: 792
+Microsoft-Windows-CoreApplication/Operational: 65
+Microsoft-Windows-Security-SPP-UX-Notifications/ActionCenter: 7
+Microsoft-Windows-ServerManager-MgmtProvider/Operational: 744
+Microsoft-Windows-ServerManager-DeploymentProvider/Operational: 126
+Microsoft-Windows-TWinUI/Operational: 15
+Setup: 40
+Microsoft-Windows-PowerShell/Operational: 148
+Windows PowerShell: 114
+Microsoft-Windows-NlaSvc/Operational: 1
+DFS Replication: 153
+Microsoft-Windows-DirectoryServices-Deployment/Operational: 182
+Directory Service: 133
+Microsoft-Windows-Dhcp-Client/Admin: 7
+DNS Server: 36
+Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc: 7
+Microsoft-Windows-TaskScheduler/Operational: 604
+Active Directory Web Services: 63
+Microsoft-Windows-Forwarding/Operational: 2
+Microsoft-Windows-Diagnosis-Scripted/Operational: 7
+Microsoft-Windows-Diagnosis-Scripted/Admin: 1
+Microsoft-Windows-Diagnostics-Networking/Operational: 4
+Microsoft-Windows-WinINet-Config/ProxyConfigChanged: 2
+Microsoft-Windows-AppXDeployment/Operational: 1
+Microsoft-Windows-FileServices-ServerManager-EventProvider/Operational: 40
+Microsoft-Windows-Application-Experience/Program-Telemetry: 1
+Microsoft-Windows-Application-Experience/Program-Inventory: 1
+Microsoft-Windows-TerminalServices-RemoteConnectionManager/Operational: 2047
+Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Operational: 2124
+Microsoft-Windows-TerminalServices-RemoteConnectionManager/Admin: 4
+Microsoft-Windows-SmartCard-DeviceEnum/Operational: 6
+Microsoft-Windows-ServerManager-MultiMachine/Operational: 1560
+Microsoft-Windows-WER-Diag/Operational: 1
+Microsoft-Windows-TerminalServices-RDPClient/Operational: 9
