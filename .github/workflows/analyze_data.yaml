@@ -19,7 +19,9 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install matplotlib numpy pandas csv
+          pip install pipreqs
+          pipreqs /
+#          pip install matplotlib numpy pandas csv
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Run python code
         run: |
